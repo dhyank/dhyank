@@ -1,6 +1,4 @@
 - 👋 Hi, I’m dhyan k
-- 👀 I’m interested in ...(almost)everything related to tech.
-- 🌱 I’m currently learning ...java
 - 📫 How to reach me ...dhyank046@gmail.com
 
 <!---
